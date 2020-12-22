@@ -1,0 +1,4 @@
+ select *
+ from nomnom
+ where cuisine = 'Japanese' 
+ AND price = '$$';
