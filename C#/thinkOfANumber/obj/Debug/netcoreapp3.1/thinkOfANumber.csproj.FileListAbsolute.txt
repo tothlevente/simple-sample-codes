@@ -1,0 +1,12 @@
+/Users/tothlevente/Documents/GitHub/simple-sample-codes/C#/thinkOfANumber/bin/Debug/netcoreapp3.1/thinkOfANumber.deps.json
+/Users/tothlevente/Documents/GitHub/simple-sample-codes/C#/thinkOfANumber/bin/Debug/netcoreapp3.1/thinkOfANumber.runtimeconfig.json
+/Users/tothlevente/Documents/GitHub/simple-sample-codes/C#/thinkOfANumber/bin/Debug/netcoreapp3.1/thinkOfANumber.runtimeconfig.dev.json
+/Users/tothlevente/Documents/GitHub/simple-sample-codes/C#/thinkOfANumber/bin/Debug/netcoreapp3.1/thinkOfANumber.dll
+/Users/tothlevente/Documents/GitHub/simple-sample-codes/C#/thinkOfANumber/bin/Debug/netcoreapp3.1/thinkOfANumber.pdb
+/Users/tothlevente/Documents/GitHub/simple-sample-codes/C#/thinkOfANumber/obj/Debug/netcoreapp3.1/thinkOfANumber.csprojAssemblyReference.cache
+/Users/tothlevente/Documents/GitHub/simple-sample-codes/C#/thinkOfANumber/obj/Debug/netcoreapp3.1/thinkOfANumber.AssemblyInfoInputs.cache
+/Users/tothlevente/Documents/GitHub/simple-sample-codes/C#/thinkOfANumber/obj/Debug/netcoreapp3.1/thinkOfANumber.AssemblyInfo.cs
+/Users/tothlevente/Documents/GitHub/simple-sample-codes/C#/thinkOfANumber/obj/Debug/netcoreapp3.1/thinkOfANumber.csproj.CoreCompileInputs.cache
+/Users/tothlevente/Documents/GitHub/simple-sample-codes/C#/thinkOfANumber/obj/Debug/netcoreapp3.1/thinkOfANumber.dll
+/Users/tothlevente/Documents/GitHub/simple-sample-codes/C#/thinkOfANumber/obj/Debug/netcoreapp3.1/thinkOfANumber.pdb
+/Users/tothlevente/Documents/GitHub/simple-sample-codes/C#/thinkOfANumber/obj/Debug/netcoreapp3.1/thinkOfANumber.genruntimeconfig.cache
